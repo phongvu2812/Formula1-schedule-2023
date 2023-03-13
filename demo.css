@@ -31,14 +31,14 @@ body {
 
 .schedule-main {
   position: absolute;
-  width: 90%;
+  width: 78%;
   background-color: black;
-  margin: 50px 5%;
+  margin: 50px 11%;
 }
 
 .schedule {
   border: 1px solid white;
-  margin: 20px 50px;
+  margin: 20px 22px;
   width: 350px;
   height: 220px;
   float: left;
