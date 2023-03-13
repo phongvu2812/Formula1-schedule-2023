@@ -1,5 +1,5 @@
 body {
-  background: black;
+  background: white;
   margin: 0;
   color: white;
 }
@@ -23,18 +23,18 @@ body {
   font-size: 20px;
   margin: 0;
 }
+.schedule-main {
+  position: absolute;
+  width: 90%;
+  background-color: black;
+  margin: 0px 5%;
+}
 .schedule {
   border: 1px solid white;
   margin: 20px 50px;
   width: 350px;
   height: 220px;
   float: left;
-}
-.void {
-  width: 100%;
-}
-.schedule-main {
-  position: absolute;
 }
 .specification {
   width: 280px;
